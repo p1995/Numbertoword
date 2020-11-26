@@ -33,7 +33,7 @@ var b = [
   "ninety"
 ];
 
-export function inWords(num) {
+export function numberToWord(num) {
   if ((num = num.toString()).length > 9) return "overflow";
   n = ("000000000" + num)
     .substr(-9)
