@@ -4,11 +4,11 @@ Get number displayed as word
 
 For example 1000 -> one thousand
 
-#installation
+# Installation
 
 `npm i numberToWord --save`
 
-#then
+# then
 
 ```
 import {numberToWord} from numberToWord
