@@ -6,7 +6,7 @@ For example 1000 -> one thousand
 
 # Installation
 
-`npm i numberToWord --save`
+`npm i number-word-converter --save`
 
 # then
 
