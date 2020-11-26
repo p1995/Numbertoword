@@ -14,3 +14,5 @@ For example 1000 -> one thousand
 import {numberToWord} from numberToWord
 numberToWord(10)
 ```
+
+# Created by : Praveen Poonja
